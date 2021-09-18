@@ -30,9 +30,15 @@ Your job is to build a simple frontend component that allows the user enter thei
     - Built in validation (Don't assume our frontend has validated the phone numbers correctly. Return sensible error codes and messages if these fail).
     - Tests using RSpec or Minitest
     - You cannot use any libraries to aid the implementation or testing of this class outside of RSpec and the standard Rails libraries.
-- Finally, we love clear code that is aided with comments and documentation - talk us through what you are doing and how you approached the problem - that helps us understand how you found the task.
 
-We are conscious of your time so don't want you spending more than 2.5-3 hours on this project. If you reach that point in time without having completed the task, feel free to submit the task as is with an explainer of what you got done.
+
+### Notes on attempting the task
+
+- We’re keen to ensure that it’s a collaborative effort - feel free to check in regularly to discuss any aspect of the project.
+- We love clear code that is aided with comments and documentation - talk us through what you are doing and how you approached the problem - that helps us understand how you found the task.
+- We expect the task to take roughly 3 hours, and as such ask you to only spend this long on it. We like to time-box tasks so as to ensure fairness between candidates with varying amounts of free time.
+- Unfinished tasks will not be looked at negatively, we're more interested in seeing your approach and demonstrations of your skill-set than perfectly finished tasks.
+- In the case that it looks like you won't finish in time, please ensure that there is at least a skeleton and a to-do list for all parts of the project, so that we can see what your approach would have been for any unfinished sections.
 
 ## Resources
 
