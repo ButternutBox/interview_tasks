@@ -54,10 +54,8 @@ To get started with the task, ensure you have both `node` and `yarn` installed l
 
 To be able to build the task, ensure your local Node and Yarn versions match the current supported version requirements:
 
-- Node v14.X.X
-- Yarn v1.22 or newer
-
-Newer versions of `node` or `yarn` _may_ be able to build the task successfully but if you run into any problems, a more recent `node` or `yarn` version could be the culprit.
+- Node >= v14.0.0
+- Yarn >= v1.22
 
 To easily control your `node` version and easily switch between them, we recommend installing [NVM](https://github.com/nvm-sh/nvm) and using that to install and easily switch to a different version.
 
